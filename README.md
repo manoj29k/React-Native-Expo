@@ -19,7 +19,7 @@
 
 ```sh
 
-    cd name-app-exemple
+    cd my-app
 
 ```
 
@@ -28,5 +28,31 @@
 ```sh
 
     npx expo start
-    
+
 ```
+
+- go to docs "setup your environment menu"
+https://docs.expo.dev/get-started/set-up-your-environment/?mode=expo-go&platform=ios&device=physical
+
+- install app 
+- create account 
+- and scan 
+
+- or use the web version by clicking the link local host
+ex:
+```sh
+
+    >Web is waiting on http://localhost:8081
+
+```
+
+
+- Reset your project
+- You can remove the boilerplate code and start fresh with a new project. Run the following command to reset your project:
+
+```sh
+    npm run reset-project
+
+```
+
+
