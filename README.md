@@ -31,6 +31,13 @@
 
 ```
 
+- to run expo app on a diffrent network from yours Run
+```sh
+    npx expo start --tunnel
+
+```
+  
+
 - go to docs "setup your environment menu"
 https://docs.expo.dev/get-started/set-up-your-environment/?mode=expo-go&platform=ios&device=physical
 
