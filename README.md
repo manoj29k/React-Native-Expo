@@ -55,4 +55,10 @@ ex:
 
 ```
 
+- there are a lot of pkgs like the  drawer navigation
+    >to get search in guides "Expo"
+```sh
 
+    npx expo install @react-navigation/drawer react-native-gesture-handler react-native-reanimated
+
+```
