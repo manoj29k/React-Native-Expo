@@ -1,4 +1,4 @@
-<h1 align = center>REACT-REACT-Native-EXPO</h1>
+<h1 align = center>REACT-REACT-Native-EXPO Application MObile</h1>
 
 - commande pour installer Expo-App
 ```sh
